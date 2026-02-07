@@ -1,2 +1,2 @@
-# my_DS_library
+# my_DS_recipe_book
 학습을 통해 배우고 다음에도 사용할 만한 파이프라인을 체계적으로 정리합니다.
