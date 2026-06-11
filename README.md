@@ -16,4 +16,4 @@
 
 
 논문 읽어보고 정리하기 or 리뷰하기 :
-1. [https://app.notion.com/p/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-An-Ensemble-Strategy-378ecb67088c80bc8876f5723ec992ef?source=copy_link] Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy
+1.<a href="https://app.notion.com/p/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-An-Ensemble-Strategy-378ecb67088c80bc8876f5723ec992ef?source=copy_link">Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy</a>
