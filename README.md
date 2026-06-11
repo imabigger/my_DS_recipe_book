@@ -17,3 +17,5 @@
 
 논문 읽어보고 정리하기 or 리뷰하기 :
 1. <a href="https://app.notion.com/p/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-An-Ensemble-Strategy-378ecb67088c80bc8876f5723ec992ef?source=copy_link">Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy</a>
+2. <a href= "https://app.notion.com/p/Are-Transformers-Effective-for-Time-Series-Forecasting-AAAI-2023-34aecb67088c80a69733dd0eb8d2466b?source=copy_link"> Are Transformers Effective for Time Series Forecasting?, AAAI 2023 </a>
+3. <a href= "https://app.notion.com/p/A-TIME-SERIES-IS-WORTH-64-WORDS-LONG-TERM-FORECASTING-WITH-TRANSFORMERS-34decb67088c80ac9beac763dcc559e7?source=copy_link"> A TIME SERIES IS WORTH 64 WORDS: LONG-TERM FORECASTING WITH TRANSFORMERS </a> 2번논문 후속
